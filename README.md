@@ -20,7 +20,7 @@ Thanks for visiting our project, URL Shortener. It is written in Python, using F
 * Web browser
 * pep8 / pycodestyle styling
 * semistandard styling
-* All programs were run on a Vagrant(ubun
+* All programs were run on a Vagrant (ubuntu)
 
 ## Installation
 In your terminal, git clone the directory with the following command:
